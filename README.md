@@ -18,3 +18,4 @@ Technologies used
 - Firebase Hosting
 - Youtube React
 - Movie Trailer
+- TMDB api
